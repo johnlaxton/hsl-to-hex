@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "John Laxton <john.laxton@bbc.co.uk>",
+  "author": "John Laxton <john@laxton.co.uk>",
   "license": "ISC",
   "repository": {
     "type": "git",
